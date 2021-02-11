@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/sadettinkpnk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sadettinkpnk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sadettinkepenek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sadettinkepenek" height="30" width="40" /></a>
-<a href="https://medium.com/@sadettinkepenek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sadettinkepenek" height="30" width="40" /></a>
+<a href="https://medium.com/@sadettinkepenek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sadettin-kepenek" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sadettin_kepenek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sadettin_kepenek" height="30" width="40" /></a>
 </p>
 
