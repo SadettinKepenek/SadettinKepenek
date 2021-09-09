@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sadettin Kepenek</h1>
-<h3 align="center">A passionate backend developer from Turkey</h3>
+<h3 align="center">A passionate backend developer at Yemeksepeti/Turkey</h3>
 
 - 🌱 I’m currently learning **React and Angular Js**
 
